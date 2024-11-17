@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vite": "^5.4.11"
+  },
+  "license": "MIT"
+}
