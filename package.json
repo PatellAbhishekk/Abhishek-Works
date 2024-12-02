@@ -2,5 +2,10 @@
   "dependencies": {
     "vite": "^5.4.11"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwind": "^4.0.0"
+  }
 }
