@@ -1,6 +1,6 @@
 # Portfolio 💫
 
-![mockup](mockup.png)
+![mockup](src/assets/mockup.png)
 
 ## 📝 Description
 
