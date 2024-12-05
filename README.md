@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png)
+![mockup](src/assets/desktop.png)
 
 ## Mobile 📱
 
