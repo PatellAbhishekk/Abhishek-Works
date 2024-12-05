@@ -1,6 +1,12 @@
 # Portfolio 💫
 
+## Desktop 💻
+
 ![mockup](src/assets/mockup.png)
+
+## Mobile 📱
+
+![mockup](src/assets/mobile.png)
 
 ## 📝 Description
 
