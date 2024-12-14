@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png)npm i react-scroll
+![mockup](src/assets/mockup.png) npm install react-hook-form
 
 ## 📝 Description
 
