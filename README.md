@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png)npm i react-icons
+![mockup](src/assets/mockup.png)npm i react-typed
 
 ## 📝 Description
 
