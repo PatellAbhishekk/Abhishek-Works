@@ -2,11 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/desktop.png)
-
-## Mobile 📱
-
-![mockup](src/assets/mobile.png)
+![mockup](src/assets/mockup.png)
 
 ## 📝 Description
 
