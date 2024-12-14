@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png) npm i react-hot-toast
+![mockup](src/assets/mockup.png)
 
 ## 📝 Description
 
@@ -73,6 +73,8 @@ module.exports = {
   ],
 }
 ```
+
+# Use Form Getform.io
 
 ## ![mockup](src/assets/about.png) About
 
