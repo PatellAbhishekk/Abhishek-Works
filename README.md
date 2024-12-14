@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png) npm i axios
+![mockup](src/assets/mockup.png) npm i react-hot-toast
 
 ## 📝 Description
 
