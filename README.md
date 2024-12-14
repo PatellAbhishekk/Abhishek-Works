@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png)
+![mockup](src/assets/mockup.png)npm i react-icons
 
 ## 📝 Description
 
@@ -15,6 +15,10 @@ This is a simple portfolio website built using HTML, CSS, JavaScript, Tailwind C
 - JavaScript
 - Tailwind CSS
 - Vite
+- daisyUI
+- React
+- Node.js
+-
 - MIT License
 - [Abhishek Patel](https://github.com/PatellAbhishekk/)
 
