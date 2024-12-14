@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png) npm install react-hook-form
+![mockup](src/assets/mockup.png) npm i axios
 
 ## 📝 Description
 
