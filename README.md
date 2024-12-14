@@ -2,7 +2,7 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png)npm i react-typed
+![mockup](src/assets/mockup.png)npm i react-scroll
 
 ## 📝 Description
 
