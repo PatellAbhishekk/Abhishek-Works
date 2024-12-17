@@ -76,6 +76,15 @@ module.exports = {
 
 # Use Form Getform.io
 
+```bash
+<form action="https://formget.io/f/xxxxxxxxxx" method="POST">
+  <input type="text" name="name" placeholder="Name" required>
+  <input type="email" name="email" placeholder="Email" required>
+  <textarea name="message" placeholder="Message" required></textarea>
+  <button type="submit">Submit</button>
+</form>
+```
+
 ## ![mockup](src/assets/about.png) About
 
 This is a simple portfolio website built using HTML, CSS, and JavaScript. It includes a responsive design that works well on both desktop and mobile devices.
