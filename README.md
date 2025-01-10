@@ -2,7 +2,13 @@
 
 ## Desktop 💻
 
-![mockup](src/assets/mockup.png)
+### [Light]
+
+![mockup](src/assets/mockupL.png)
+
+### [Dark]
+
+![mockup](src/assets/mockupD.png)
 
 ## 📝 Description
 
@@ -26,7 +32,7 @@ This is a simple portfolio website built using HTML, CSS, JavaScript, Tailwind C
 
 To install this project, follow these steps:
 
-## ![mockup](src/assets/vite.png) Vite
+## ‖ Vite
 
 ```bash
 npm create vite@latest ./portfolio
@@ -38,7 +44,7 @@ pnpm install
 pnpm run dev
 ```
 
-## ![mockup](src/assets/tail.png)Tailwind CSS
+## ‖ Tailwind CSS
 
 ```bash
 ## Install Tailwind CSS
@@ -61,7 +67,7 @@ npx tailwindcss init -p
 npm run dev
 ```
 
-# ![mockup](/src/assets/daisy.png) daisyUI
+## ‖ daisyUI
 
 ```bash
 npm i -D daisyui@latest
@@ -74,7 +80,7 @@ module.exports = {
 }
 ```
 
-# Use Form Getform.io
+## ‖ Use Form Getform.io
 
 ```bash
 <form action="https://formget.io/f/xxxxxxxxxx" method="POST">
@@ -85,11 +91,11 @@ module.exports = {
 </form>
 ```
 
-## ![mockup](src/assets/about.png) About
+## ‖ About
 
 This is a simple portfolio website built using HTML, CSS, and JavaScript. It includes a responsive design that works well on both desktop and mobile devices.
 
-## ![mockup](src/assets/feat.png) Features
+## ‖ Features
 
 - Responsive design that works well on both desktop and mobile devices
 - Navigation menu with dropdowns
@@ -98,7 +104,7 @@ This is a simple portfolio website built using HTML, CSS, and JavaScript. It inc
 - Contact form with validation
 - Dark mode toggle
 
-## ![mockup](src/assets/start.png) Getting Started
+## ‖ Getting Started
 
 To get started, follow these steps:
 
@@ -107,7 +113,7 @@ To get started, follow these steps:
 3. Customize the CSS and JavaScript files as needed.
 4. Test the website on different devices and browsers.
 
-## ![mockup](src/assets/cust.png) Customization
+## ‖ Customization
 
 You can customize the website by modifying the CSS and JavaScript files. Here are some suggestions:
 
@@ -116,11 +122,11 @@ You can customize the website by modifying the CSS and JavaScript files. Here ar
 - Add or remove images and captions from the gallery section.
 - Update the contact form with your own fields and validation rules.
 
-## ![mockup](src/assets/cont.png) Contributing
+## ‖ Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
-## ![mockup](src/assets/license.png) License
+## → License
 
 This project is licensed under the MIT License.
 
